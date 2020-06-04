@@ -1,5 +1,5 @@
 ## Life++
-The web app focuses on providing a secure online storage for the user’s medical records. The user will sign in to his account and access a dashboard of his medical records. The user will submit a photo of the physical prescription which he/she receives from the doctor. Alternatively , the doctor too can submit a photo of the prescription he/she prescribed to the user. Once any user uploads a photo of the prescription , the app performs optical character recognition and extracts text from it.
+The web app focuses on providing a secure online storage for the userâ€™s medical records. The user will sign in to his account and access a dashboard of his medical records. The user will submit a photo of the physical prescription which he/she receives from the doctor. Alternatively , the doctor too can submit a photo of the prescription he/she prescribed to the user. Once any user uploads a photo of the prescription , the app performs optical character recognition and extracts text from it.
 
 To ensure the incorruptibility of the document , a hash of the document is generated and is logged in a blockchain. The blockchain ensures that the hash of the document cannot be tampered with in any condition. When the user requests for the document again, the app matches the hash of the document present in its database with that in the blockchain. If they are found to be same, it means the article was not tampered with.
 
@@ -24,21 +24,21 @@ To ensure the incorruptibility of the document , a hash of the document is gener
 
 ### Screenshots of the application
 
-<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/1.png" height="600" width="800">
-<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/2.png" height="600" width="800">
-<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/3.png" height="600" width="800">
-<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/4.png" height="600" width="800">
-<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/5.png" height="600" width="800">
-<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/6.png" height="600" width="800">
-<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/7.png" height="600" width="800">
-<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/8.png" height="600" width="800">
-<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/9.png" height="600" width="800">
-<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/10.png" height="600" width="800">
-<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/11.png" height="600" width="800">
-<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/12.png" height="600" width="800">
-<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/13.png" height="600" width="800">
-<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/14.png" height="600" width="800">
-<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/15.png" height="600" width="800">
-<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/16.png" height="600" width="800">
-<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/17.png" height="600" width="800">
-<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/18.png" height="600" width="800">
+<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/1.png">
+<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/2.png">
+<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/3.png">
+<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/4.png">
+<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/5.png">
+<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/6.png">
+<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/7.png">
+<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/8.png">
+<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/9.png">
+<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/10.png">
+<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/11.png">
+<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/12.png">
+<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/13.png">
+<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/14.png">
+<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/15.png">
+<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/16.png">
+<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/17.png">
+<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/18.png">
