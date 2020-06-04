@@ -20,7 +20,7 @@ To ensure the incorruptibility of the document , a hash of the document is gener
 
 ### Activity Diagram
 
-<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/activity.png" height="600" width="800">
+<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/activity.PNG" height="600" width="800">
 
 ### Screenshots of the application
 
