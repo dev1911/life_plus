@@ -28,8 +28,6 @@ To ensure the incorruptibility of the document , a hash of the document is gener
 <img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/2.png">
 <img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/3.png">
 <img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/4.png">
-<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/5.png">
-<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/6.png">
 <img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/7.png">
 <img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/8.png">
 <img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/9.png">
@@ -39,6 +37,8 @@ To ensure the incorruptibility of the document , a hash of the document is gener
 <img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/13.png">
 <img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/18.png">
 <img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/14.png">
+<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/6.png">
+<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/5.png">
 <img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/15.png">
 <img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/16.png">
 <img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/17.png">
