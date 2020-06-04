@@ -40,6 +40,5 @@ To ensure the incorruptibility of the document , a hash of the document is gener
 <img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/6.png">
 <img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/5.png">
 <img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/15.png">
-<img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/16.png">
 <img src = "https://github.com/dev1911/life_plus_plus/blob/documentation/docs/17.png">
 
